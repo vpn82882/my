@@ -1,0 +1,396 @@
+ca.crt0100777000000000000000000000302213232415555007113 0ustar00-----BEGIN CERTIFICATE-----
+MIIETTCCArWgAwIBAgIJALdz0i1x0KEyMA0GCSqGSIb3DQEBCwUAMB4xHDAaBgNV
+BAMME2NuX1RaR0RrV21zWTdwaEVkcGowHhcNMTgwMTI1MTc1NDA0WhcNMjgwMTIz
+MTc1NDA0WjAeMRwwGgYDVQQDDBNjbl9UWkdEa1dtc1k3cGhFZHBqMIIBojANBgkq
+hkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAtXH29l8WlnKUcrMLACuy0+/tgLweHjnw
+ajs01aYRmTKCKAqYmu6URpkowumttiyEuntLDg5YR2yhMu1dEI0vFkyNFyMPZTde
+fVZ/HKOQV/SVFWJIJlZC7enT5VwwB22u3Joge3//pT7CbK8pv4I/1As+pdy4K0T0
+ki3Vkd4TUPwnQlnsRwmG7530ih0ZOUDIuaWeQKnE+Eit5alqLMolkMIIFYDXsyAF
+FZf9k16VEOQh+swlQwKTvcX9iUpubCJnZ37Z4M72GkoAEHHdaFOuTFm0GR9Z9efM
+DJt8eh+oKq7nL1Iy7qH9ccm0lO3duiTE9ls3Oo1TlYdG0fo4D+WJExnPt1UVdaxQ
+2BN+VuWcdnYs6hK0buAaOUvEX39BiHwP4KhYmBxSxDHWV0LYMefsvTMU/BfG2MSc
+303ymVmkR5B+JUa0Ya9AaAf0lcEZR9Ygv4NFbUPTCSNHJ0qKi5vCzNb1aKCZ7lhb
+c2fnHXNhOoeeKMDrSfPgUw6frM2mYMPZAgMBAAGjgY0wgYowHQYDVR0OBBYEFEiB
+b69ceISKDqHOjvIhppheewazME4GA1UdIwRHMEWAFEiBb69ceISKDqHOjvIhpphe
+ewazoSKkIDAeMRwwGgYDVQQDDBNjbl9UWkdEa1dtc1k3cGhFZHBqggkAt3PSLXHQ
+oTIwDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggGB
+AAzGnQr7zHeFZYrwI2a7asrjiM/KbABN69Fk4DRPk861y7Sunw768wRPDgcrpJui
+xoTZDh2okzsa7Ypiz63hdn42ERW9VKydtT7paoKl5hEeoipaKlefkaC2zC57sid9
+fVLSsAAMy3lNLtXly7+glLKd+YuRQozLsgp8B/JyjrlNDTEeo4V5T7cirlXkcN31
+C3YwSX7b6SKeaypcDlGL7nl2JTUHRVuhW78BloYeU2oc16PbzKlYwLkSX1puA3HW
+C1qfbImYpQAudE6c1nWehPPCNvbaoJ/Isw4hfYLsEwhVhaadbklHZF7eGOlVXlLV
+wfo84cwPdE0bvNwsMibmy72NTNgDRN1sPeHN3vyA5sW5x/a+vnpzKoQLBYwMKPpz
+wqbEngGEtTQckXOiSqa9dX6JXTVuZtegdEenpVLncYnI3Ns50G5x8BIGY+OXu1bv
+sLAxjojallMfVm0vdV1xZhyrt0uwUl7X0lGKMLXI1+8LhTYyqVICclqrHpe3tacc
+Ew==
+-----END CERTIFICATE-----
+ca.key0100777000000000000000000000466413232415557007132 0ustar00-----BEGIN PRIVATE KEY-----
+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
+o92zy88CfKF/cWbk00yP/z4=
+-----END PRIVATE KEY-----
+crl.pem0100777000000000000000000000147413232415602007303 0ustar00-----BEGIN X509 CRL-----
+MIICOzCBpAIBATANBgkqhkiG9w0BAQsFADAeMRwwGgYDVQQDDBNjbl9UWkdEa1dt
+c1k3cGhFZHBqFw0xODAxMjUxNzU2MzVaFw0yODAxMjMxNzU2MzVaoFIwUDBOBgNV
+HSMERzBFgBRIgW+vXHiEig6hzo7yIaaYXnsGs6EipCAwHjEcMBoGA1UEAwwTY25f
+VFpHRGtXbXNZN3BoRWRwaoIJALdz0i1x0KEyMA0GCSqGSIb3DQEBCwUAA4IBgQBm
+KitNN4eVVho9/QJdI+t4BdgzTXX/tOIJT44z+AGyau57hLQkEx1MN/YrUCnF7zrs
+b6uo8aUueonPNCWu1VqoY43tMfpe6FmAMzgIA42EKQY15IcJ1CCMtSqfT2+97SwK
+7dlg2e5kc3zlviCZJ3ZZIGADwfJz6SLfABUcAJhJ/571GqtEDTr7jjR8NYoXvy8k
+l0rC0bvkfBE9hwv5BfWFv6hdCstWNQbKf3lQjlVI14EWXyNBZSTm/THR4blcJwy6
+rQHZdid5T/nrXl2VVcfB4MhpontxOwXuGONmNe3Ceeo+41lMrQVVdQa3IVMwJwaQ
+UW5UOEFJyRSjJM5pLsU4aXOfjyWMGVuatD/BSR+ZRdC2w/Y2+ZCD2QgJ/NIMmiJ3
+BS39ZUyUR67Q8FSfVNhp8ocgXMN2qiAvCRI7AFKjhAm1oGMY1yh5NygyMqLjisgk
+6TEO6Cdw7VldVJvC2MXplITdMMyT97UCMqQmL0E9ikeIaA5PbEpN4BhZ358jk/w=
+-----END X509 CRL-----
+dh.pem0100777000000000000000000000112313232415606007111 0ustar00-----BEGIN DH PARAMETERS-----
+MIIBiAKCAYEAwnm17lIOZot3TN0jJ56XFidX6d3EWkdHf45MJlYQIGb02h5Z79TG
+aSW9G07KTM2Cey8hYjBCNOMoPo8Ste05reKmAfSxWO5WYLgWspPG60hTr3V8kE2n
+5yjKchSDpIYQXOztHrKKiCYnea2AVoGKh9/eNoek2miAIpktS6f592JGg2YXgO9t
+PV/3ljaL4V5vk9UHr4Udvsa8fqLSRAJow+U7/DLao5ZNijG+Z5IsKNqWPV1ELpyg
+XRmiOurBzGsataIj+KGuQRsxSgTSu7sWQ78ecskx0t2rFE6/ZErrsB0eEE+HNtR3
+4VQ1LQ2z2a375sNVHed3oHhHcbtyGVpEghlBINaNihg7lkRlTVRsI1Cb2uoa3CCZ
+90jxre5d8fCTyla+lYjHA5KUuMLqdzrdmvqn4WWtHSKlVT03URoj97lSIlwzTNxU
+KPQaxjFC7VakqPmPvl77+aTf0AYFlZFhSMFBYOgK7ctfAXkhPkLY59fmICzpEJto
+YR3+ry8FO9ozAgEC
+-----END DH PARAMETERS-----
+openvpn-auth-pam.so0100777000000000000000000003333012621136351011560 0ustar00ELF>�@�0@8@|&|& �,�, �, `h �,�, �, ���$$P�td�#�#�#\\Q�tdR�td�,�, �, XXGNU�xM�c��86��7U�++%H%(��1q0b���G��U!	�)>p 
+�ifY���2 ����U �n9��, HF"x��|��`���_���__gmon_start___ITM_deregisterTMCloneTable_ITM_registerTMCloneTable__cxa_finalize_Jv_RegisterClassesstrlenstrncmpstrstrstrncatstrcat__strdupcallocstderr__fprintf_chk__ctype_b_locstrncasecmpreadopenvpn_plugin_open_v1fwritestrtolsocketpairforkclosefcntlfree__stack_chk_failcloselogsignalexitpam_startpam_authenticatepam_strerrorpam_endpam_acct_mgmtopenvpn_plugin_func_v1openvpn_plugin_close_v1waitpidopenvpn_plugin_abort_v1libpam.so.0libc.so.6openvpn-plugin-auth-pam.soLIBPAM_1.0GLIBC_2.3GLIBC_2.3.4GLIBC_2.4GLIBC_2.2.5� `/h��ii
+ti	ii
+ui	'�, ��, �0 0 �/ �/ �/ �/ �/  �/ $�. �. �. �. �. / / 	/ 
+/  / (/ 
+0/ 8/ @/ H/ P/ X/ `/ h/ p/ x/ �/ �/ �/ �/ �/ �/ �/  �/ !�/ "�/ #H��H�# H��t�#H����5�! �%�! @�%�! h������%�! h������%�! h������%�! h�����%�! h�����%�! h�����%�! h�����%�! h�p����%�! h�`����%�! h	�P����%�! h
+�@����%�! h�0����%�! h� ����%z! h
+�����%r! h�����%j! h������%b! h������%Z! h������%R! h������%J! h�����%B! h�����%:! h�����%2! h�����%*! h�p����%"! h�`����%! h�P����%! h�@����%
+! h�0����%! h� ����%�  h�����%�  h����A��1�H��� S���D��H������������H���CN�[�f.�DH�=�  H��  UH)�H��H��vH��  H��t	]��fD]�fffff.�H�=�  H�5�  UH)�H��H��H��H��?H�H��tH�Y  H��t]��f�]�fffff.��=Q  u'H�=/  UH��tH�=2  ������H���]�(  ��fffff.�H�=� H�?u�^���fDH�� H��t�UH����]�@���AUATUSH��H��tkH��I������H�]H��t4Lc�H��fDL��L��H���������uL�;=tH��H�]�H��u�H��H��[]A\A]�H��H��H��[]A\A]�1���f�UH��AWAVAUATI��SI��H��H������H��H�DH���H)�M���$��M�����;t~A�<$twA�>tqL��H��I������H��I��tlL��H��L��H)��o���L��L������L������I�L��H���}���H��I��u�L���]���H�e�[A\A]A^A_]�fDH�e�1�[A\A]A^A_]�H���/�����ffff.�AUATA��USH��I��H�������XL��D��Hc�H������H9Ÿ����D�H��[]A\A]�fffff.�D�G�H��A��v
+���AWAVHc�AUATI��USH��H��hH�L$H�T$X�|$0����H��H�D$H�H���|H�L$L��I�wI���HH�\$ �D$4�D$H�t$8H�L$@H�D$PfDH�D$ H�H�D$H��@H�D$�8~6L�CH�8D��L$H���M��LD�H� H�81�����H�D$H���H��H�D$(I�����(����H�CM�wE1�H�$����L�(�l$D��M��M��f�M�'M�oH�$���t0H��H�A�VH��t�L�������H��H��L������������I��;l$u��D$4�D$H�D$ �D$H�D$;D$0������D$4��u
+H�D$XH�L$HH��D$4H��h[]A\A]A^A_Ë��������u�H�|$@�����H�L$H��H�u�낐H�D$L��A��M��H�H�D$�8��H�5�
+L������H��toH�T$8H�5�
+L���U���H�t$H�H��H�D$(���A9���������������������H�|$8� ���H�t$H��H�����������H�5Q
+L������H��tZH�T$@H�58
+L�������H�t$H��x���H� H�$H��
+M��I�ؾH�81��~��������D$4�O���H�5�	L������H��t!H�T$PH�5�	L���d���H�L$H��
+���L���_���H�t$H������f�AWAVAUATI��USI����H��H��dH�%(H��$�1��4���H��H����M�������A�$ ��I�}��I�uE1�H��@H��A��H�y�u�A�����D$PH��1�f�H����H�y�u�1҃����H����H�~�u����u��!~%H�� H�=�	�%�H����������҉T$Pt9�B�H�t$XL�L$`1�H��H���I�T
+H�I�T
+I�	H��H9�u�H�=hH���n���H��H��t�
+1��:����CH�L$01Ҿ��1�����������������|$4�C�����|$01������������|$0H�t$@�����H����H������1�H��$�dH3<%(��H��[]A\A]A^A_�f�1���@H�y H�=��!�H�������fDH�Q H�=B�%�H������v����|$@
+�h����D$0�H���d���H� H�=y�?�H��o��������e����D�d$4�����A9�t���z�������eu�1��������������������
+�y������j�����
+�[���D�cI�E�l$4A��H�D$~ H��H�R H���H�81������L�l$@����D$@
+L���k���H��tVH� H�=	�9�H��u���A��~ H�� H�=��H��O����|$4�v���1��/���H��$`L�|$PH���L�sH�D$H��H�D$H�D$8H�D$ 1��2H���H��L���D��$`L��$��0���A���H��uD�D$@A��~*H�K H�$D���D�D$,H�81�����D�D$,E��t9A������A����%H��D��H�� �H�81��w��������L�������������H�t$����������H�t$����������A��~ H�� H��L��H�81�����H��$�H�D$8H����8��H�E���H�\$H1�H�D$@H�L$ H�|$L���W�����tv�L����D$@
+�o���H�������H� H�=��9�H��u��������1�H������H�� H�=\�4�H��B��������H�|$81��Q�����A��teH�|$8D��D�L$,�(���I��H�� H��L��H�81�����D�L$,H�|$8D��������+���H�G���H�\$HL��H�D$@�����H�|$81�������A��u�H�|$81������L����D$@�b���H���|���H�	 H�=z�9�H��h��������AWAVAUATUS�H��dH�%(H�D$1���t(H�T$dH3%(���UH��[]A\A]A^A_�D�?I��E��x�H�=�H��H������H�=�H��I������H�=�H��I������H��H��H��HD�M��t�A�}tRM��tMH�\$�D���D$H���c���H��t=H� H�=��8��H��h����+��������fDA�<$L���d������t�A�<$L���S������t�A�<$H���B������t�A�<$�H���\���H��t*H�� H�=��D��H����������1ۀ|$������������SH��H��dH�%(H�D$1��z�;��xQH�t$��D$�X���H��t H� H�=|�5�H��b����{��~	1�1������;�{���H�D$dH3%(u8H��H��[����fDH�� H�=���H������a��������fffff.�SH��H��dH�%(H�D$1�H��t'�?��x!H�t$��D$�����;����������H�D$dH3%(uH��[�����H��H���NULLUSERNAMEPASSWORDCOMMONNAMEverbAUTH-PAM: BACKGROUND: EXIT
+usernamepasswordcommon_nameAUTH-PAM: close
+AUTH-PAM: BACKGROUND: my_conv[%d] query='%s' style=%d
+AUTH-PAM: BACKGROUND: name match found, query/match-string ['%s', '%s'] = '%s'
+AUTH-PAM: need PAM service parameter
+AUTH-PAM: bad name/value list length
+AUTH-PAM: socketpair call failed
+AUTH-PAM: Set FD_CLOEXEC flag on socket file descriptor failed
+AUTH-PAM: BACKGROUND: INIT service='%s'
+AUTH-PAM: BACKGROUND: received command code: %d
+AUTH-PAM: BACKGROUND: read error on command channel: code=%d, exiting
+AUTH-PAM: BACKGROUND: USER: %s
+AUTH-PAM: BACKGROUND: read error on command channel
+AUTH-PAM: BACKGROUND: unknown command code: code=%d, exiting
+AUTH-PAM: BACKGROUND: write error on response socket [1]
+AUTH-PAM: BACKGROUND: user '%s' failed to authenticate: %s
+AUTH-PAM: BACKGROUND: write error on response socket [2]
+AUTH-PAM: BACKGROUND: write error on response socket [3]
+AUTH-PAM: Error sending auth info to background process
+AUTH-PAM: Error receiving auth confirmation from background process
+AUTH-PAM: Error signaling background process to exit
+;\
+0���x0����p�������������(0���`�����`���(���x�����zRx�$����FJw�?;*3$"LD����~B�B�A �A(�D0Q
+(D ABBDD
+(H ABBA4������A�C
+H����G��
+GP
+A4�����BB�B�D �A(�J0h(A ABBT����~b�B�E �B(�D0�A8�L��
+8A�0A�(B� B�B�B�A\p���1N�bL|�����B�B�B �B(�D0�A8�W��
+8A0A(B BBBCL�0����B�B�B �B(�A0�A8�IPo
+8A0A(B BBBD$�����A�G �
+DK$D(���_A�G P
+AA������
+��, �, ���o�(
+3�. ��	��	���o���o����o���o4���o�, �
+
+&
+6
+F
+V
+f
+v
+�
+�
+�
+�
+�
+�
+�
+�
+&6FVfv������0 .shstrtab.note.gnu.build-id.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.jcr.dynamic.got.data.bss��$���o��4(((�038���o44RE���o��pT���^B�	�	�
+h��c��n���t��	z2�����#�#\�$$l��, �,��, �,��, �,��, �,��. �.@�0 0�0 00�server_ADBtkp0yL46HLXPb.crt0100777000000000000000000001360213232415673012626 0ustar00Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            51:3f:14:0e:2d:0c:38:91:eb:c3:cd:61:41:9d:27:cb
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=cn_TZGDkWmsY7phEdpj
+        Validity
+            Not Before: Jan 25 17:56:35 2018 GMT
+            Not After : Jan 23 17:56:35 2028 GMT
+        Subject: CN=server_ADBtkp0yL46HLXPb
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (3072 bit)
+                Modulus:
+                    00:ce:57:b1:a9:2f:ae:7a:cd:80:47:5a:91:43:9c:
+                    51:30:48:15:99:d7:ce:c5:cd:7f:5e:bd:29:73:e6:
+                    48:3c:6c:b2:79:e7:20:c3:72:34:a9:e4:fc:16:95:
+                    ca:1c:33:0e:76:7d:33:1f:f9:01:18:b9:29:f7:a7:
+                    0a:d4:9c:05:04:a4:d4:8a:4b:e7:eb:db:c7:d3:b8:
+                    ac:80:80:d7:d3:49:c9:e6:08:4a:72:da:99:7c:5d:
+                    87:fd:3e:7c:0e:10:33:db:3e:8d:68:5b:82:7a:73:
+                    17:e4:78:e8:f3:fb:97:ce:0f:24:c5:c1:62:cb:58:
+                    89:ac:8c:16:ac:f3:fc:32:05:a0:69:6f:c3:04:73:
+                    69:4b:c5:8c:c6:bc:64:47:90:30:97:20:60:86:62:
+                    bf:09:54:e6:62:00:4a:8a:8e:cc:c5:04:65:96:f5:
+                    fb:08:ae:f3:5b:54:a9:42:15:3a:63:c7:06:9f:70:
+                    5c:0d:3b:f2:37:8a:41:0b:87:dc:40:7e:c9:a2:c8:
+                    ba:1b:a4:e3:84:19:64:90:96:8a:11:1b:10:6a:61:
+                    ef:ca:a4:a4:82:69:db:cd:d1:62:b4:cd:4f:2d:a7:
+                    ac:4e:43:d9:9e:f7:61:ea:75:1c:2d:cf:bc:ad:b9:
+                    bd:8c:19:9a:69:33:35:a5:20:e7:d7:4c:9b:24:f8:
+                    ca:9d:11:8b:15:17:2b:92:e2:5a:08:04:43:81:cf:
+                    7c:38:24:15:c1:79:cb:cd:88:92:be:d5:3f:4a:2c:
+                    77:81:b5:6f:81:70:8f:37:dc:63:0e:7e:e9:bb:05:
+                    8d:f5:83:05:e0:23:57:98:9f:a5:a9:32:3d:e0:54:
+                    da:97:7b:6e:af:44:0f:ef:77:6d:81:21:98:59:a1:
+                    2f:85:79:55:9a:87:6f:28:86:4d:b3:96:b4:fd:10:
+                    07:bf:a4:34:7d:f6:59:34:0c:da:68:e9:b7:c9:aa:
+                    c0:8d:92:05:70:4a:60:8b:18:19:ca:15:2a:7c:b4:
+                    18:40:8f:35:f5:20:09:21:c3:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                16:A6:D1:D3:89:39:AF:C6:16:99:7E:6A:60:AF:44:E9:E9:57:F6:2D
+            X509v3 Authority Key Identifier: 
+                keyid:48:81:6F:AF:5C:78:84:8A:0E:A1:CE:8E:F2:21:A6:98:5E:7B:06:B3
+                DirName:/CN=cn_TZGDkWmsY7phEdpj
+                serial:B7:73:D2:2D:71:D0:A1:32
+ 
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server_ADBtkp0yL46HLXPb
+    Signature Algorithm: sha256WithRSAEncryption
+         a5:2c:94:99:ca:29:19:0e:b2:1a:3f:12:db:ba:a3:00:c5:fb:
+         0e:cf:e7:c4:02:17:de:90:86:2e:86:97:54:94:1c:06:d6:62:
+         b0:8b:90:96:bf:80:2d:ae:7f:7c:94:f6:26:69:1b:1c:e9:32:
+         58:c3:da:52:c2:e5:d5:c6:09:57:2a:9b:23:68:80:7e:d6:08:
+         7f:34:10:0c:cf:c2:3e:5b:53:73:f0:fa:26:78:2a:68:4d:29:
+         da:05:c6:80:43:e3:56:0e:38:38:16:26:dc:c9:af:13:33:51:
+         2f:01:58:8c:ca:52:be:78:17:6d:4a:f3:f2:24:a6:44:bc:ab:
+         8a:69:e6:63:e1:fe:8c:70:b6:3a:be:61:df:77:e9:b4:b5:a5:
+         aa:d7:57:05:78:ae:4e:63:6e:fd:44:8c:a2:c8:5e:90:22:e7:
+         95:49:f7:3d:e2:2f:1a:b3:d8:7a:49:b8:30:6b:be:2b:7e:34:
+         16:6b:25:a8:8c:34:ff:aa:53:3f:65:5d:de:0b:cd:47:b7:57:
+         f7:e5:84:de:33:41:13:33:4b:11:9b:01:20:37:5e:69:61:df:
+         26:80:25:a2:c2:21:54:c2:84:d9:80:2c:27:68:83:bf:06:ba:
+         66:13:7e:a9:4e:0b:95:a9:7a:96:a2:f1:0d:8e:ed:df:2c:e6:
+         32:2c:3f:a4:7b:d1:8d:7c:97:52:8c:ab:00:6c:63:87:dc:72:
+         0c:0a:ef:f5:84:6f:45:61:58:3b:53:16:8a:e5:fd:62:37:e5:
+         1d:0d:00:b7:0a:47:2f:e8:f6:e0:df:74:cc:97:4e:1a:02:1c:
+         b5:6d:46:49:c8:f9:da:c4:15:3b:b2:4d:d8:12:c4:48:46:aa:
+         1f:3b:1d:7b:61:22:08:d5:46:69:de:4f:9e:ce:3f:30:33:2a:
+         20:80:f2:c5:8f:ba:62:01:9d:ad:a7:39:85:a4:dd:97:b3:f1:
+         b5:a0:c0:42:e2:2c:f9:b7:76:14:12:5b:cc:aa:8b:f1:ee:d6:
+         88:c8:f4:0f:f4:4b
+-----BEGIN CERTIFICATE-----
+MIIEjjCCAvagAwIBAgIQUT8UDi0MOJHrw81hQZ0nyzANBgkqhkiG9w0BAQsFADAe
+MRwwGgYDVQQDDBNjbl9UWkdEa1dtc1k3cGhFZHBqMB4XDTE4MDEyNTE3NTYzNVoX
+DTI4MDEyMzE3NTYzNVowIjEgMB4GA1UEAwwXc2VydmVyX0FEQnRrcDB5TDQ2SExY
+UGIwggGiMA0GCSqGSIb3DQEBAQUAA4IBjwAwggGKAoIBgQDOV7GpL656zYBHWpFD
+nFEwSBWZ187FzX9evSlz5kg8bLJ55yDDcjSp5PwWlcocMw52fTMf+QEYuSn3pwrU
+nAUEpNSKS+fr28fTuKyAgNfTScnmCEpy2pl8XYf9PnwOEDPbPo1oW4J6cxfkeOjz
++5fODyTFwWLLWImsjBas8/wyBaBpb8MEc2lLxYzGvGRHkDCXIGCGYr8JVOZiAEqK
+jszFBGWW9fsIrvNbVKlCFTpjxwafcFwNO/I3ikELh9xAfsmiyLobpOOEGWSQlooR
+GxBqYe/KpKSCadvN0WK0zU8tp6xOQ9me92HqdRwtz7ytub2MGZppMzWlIOfXTJsk
++MqdEYsVFyuS4loIBEOBz3w4JBXBecvNiJK+1T9KLHeBtW+BcI833GMOfum7BY31
+gwXgI1eYn6WpMj3gVNqXe26vRA/vd22BIZhZoS+FeVWah28ohk2zlrT9EAe/pDR9
+9lk0DNpo6bfJqsCNkgVwSmCLGBnKFSp8tBhAjzX1IAkhwwMCAwEAAaOBwzCBwDAJ
+BgNVHRMEAjAAMB0GA1UdDgQWBBQWptHTiTmvxhaZfmpgr0Tp6Vf2LTBOBgNVHSME
+RzBFgBRIgW+vXHiEig6hzo7yIaaYXnsGs6EipCAwHjEcMBoGA1UEAwwTY25fVFpH
+RGtXbXNZN3BoRWRwaoIJALdz0i1x0KEyMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsG
+A1UdDwQEAwIFoDAiBgNVHREEGzAZghdzZXJ2ZXJfQURCdGtwMHlMNDZITFhQYjAN
+BgkqhkiG9w0BAQsFAAOCAYEApSyUmcopGQ6yGj8S27qjAMX7Ds/nxAIX3pCGLoaX
+VJQcBtZisIuQlr+ALa5/fJT2JmkbHOkyWMPaUsLl1cYJVyqbI2iAftYIfzQQDM/C
+PltTc/D6JngqaE0p2gXGgEPjVg44OBYm3MmvEzNRLwFYjMpSvngXbUrz8iSmRLyr
+imnmY+H+jHC2Or5h33fptLWlqtdXBXiuTmNu/USMoshekCLnlUn3PeIvGrPYekm4
+MGu+K340FmslqIw0/6pTP2Vd3gvNR7dX9+WE3jNBEzNLEZsBIDdeaWHfJoAlosIh
+VMKE2YAsJ2iDvwa6ZhN+qU4Llal6lqLxDY7t3yzmMiw/pHvRjXyXUoyrAGxjh9xy
+DArv9YRvRWFYO1MWiuX9YjflHQ0AtwpHL+j24N90zJdOGgIctW1GScj52sQVO7JN
+2BLESEaqHzsde2EiCNVGad5Pns4/MDMqIIDyxY+6YgGdrac5haTdl7PxtaDAQuIs
++bd2FBJbzKqL8e7WiMj0D/RL
+-----END CERTIFICATE-----
+server_ADBtkp0yL46HLXPb.key0100777000000000000000000000467013232415645012632 0ustar00-----BEGIN PRIVATE KEY-----
+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
+dr3Szfw/1BrXI2OgvFxke2i6hA==
+-----END PRIVATE KEY-----
+servertcp.conf0100777000000000000000000000121313747162706010712 0ustar00port 443
+proto tcp
+dev tun
+user nobody
+group nogroup
+persist-key
+persist-tun
+keepalive 10 120
+topology subnet
+server 10.9.0.0 255.255.255.0
+ifconfig-pool-persist ipp.txt
+push "dhcp-option DNS 1.0.0.1"
+push "dhcp-option DNS 1.1.1.1"
+push "redirect-gateway def1 bypass-dhcp" 
+crl-verify crl.pem
+ca ca.crt
+cert server_ADBtkp0yL46HLXPb.crt
+key server_ADBtkp0yL46HLXPb.key
+tls-auth tls-auth.key 0
+dh dh.pem
+auth SHA256
+cipher AES-128-CBC
+tls-server
+tls-version-min 1.2
+tls-cipher TLS-DHE-RSA-WITH-AES-128-GCM-SHA256
+status openvpn.log
+verb 3
+plugin /etc/openvpn/openvpn-auth-pam.so /etc/pam.d/login
+username-as-common-name
+ 
+ 
+serverudp.conf0100777000000000000000000000121213511772176010710 0ustar00port 1194
+proto udp
+dev tun
+user nobody
+group nogroup
+persist-key
+persist-tun
+keepalive 10 120
+topology subnet
+server 10.8.0.0 255.255.255.0
+ifconfig-pool-persist ipp.txt
+push "dhcp-option DNS 1.0.0.1"
+push "dhcp-option DNS 1.1.1.1"
+push "redirect-gateway def1 bypass-dhcp" 
+crl-verify crl.pem
+ca ca.crt
+cert server_ADBtkp0yL46HLXPb.crt
+key server_ADBtkp0yL46HLXPb.key
+tls-auth tls-auth.key 0
+dh dh.pem
+auth SHA256
+cipher AES-128-CBC
+tls-server
+tls-version-min 1.2
+tls-cipher TLS-DHE-RSA-WITH-AES-128-GCM-SHA256
+status openvpn.log
+verb 3
+plugin /etc/openvpn/openvpn-auth-pam.so /etc/pam.d/login
+username-as-common-name
+ 
+tls-auth.key0100777000000000000000000000117413232415677010304 0ustar00#
+# 2048 bit OpenVPN static key
+#
+-----BEGIN OpenVPN Static key V1-----
+40240d75e68c0c904997178f1e02bb26
+e0e749654be32a0b7adc37cfc70be68c
+1483fa0c9427eec41fd6492b68fa67cd
+7fbccce05ed92e02bdf5e94aa028afa6
+e1aec19a2f22082409695c958100fd94
+d667cb2f9b4ef1294e1fcf8307ad52e0
+a2f0ac7d1f64d32bad1b00b502272d87
+4d05c2851a09578585d3fcc2626275c2
+4b3d98220506b9b1c4b726e2fe8ff0fa
+1a0b194e55ce517740c6f9e399808ca2
+2017adbb8c0695eaa1686cc64cd5c3cd
+3210ca0f3283233be7dc18a5e535adc9
+c87fc49ee32b97b6c925014b464ae52d
+e6d7b99a22b84f1620d7c94af927c8bb
+0ed52d61c9ca821be4e9deb94bc00cb8
+29b8d1b0a13e173b68e3b835c46a4a38
+-----END OpenVPN Static key V1-----
